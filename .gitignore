@@ -1,0 +1,5 @@
+# File yang diabaikan saat commit git
+.env
+*.local
+.DS_Store
+Thumbs.db
